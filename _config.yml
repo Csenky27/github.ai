@@ -3,3 +3,4 @@ description: A modern platform for tech enthusiasts.
 baseurl: "" # leave empty if deployed at root
 url: "https://your-username.github.io" # your GitHub Pages URL
 theme: minima # 默认 Jekyll 主题
+theme: minima
