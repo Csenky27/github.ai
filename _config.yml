@@ -1,7 +1,9 @@
 title: SynthVerse
-description: A modern platform for tech enthusiasts.
-baseurl: "" # leave empty if deployed at root
-url: "https://your-username.github.io" # your GitHub Pages URL
-theme: minima # 默认 Jekyll 主题
-theme: minima
-theme: jekyll-theme-cayman # 示例：cayman主题
+description: Exploring the future of technology through AI and blockchain. 
+baseurl: "" # 留空
+author: Senky
+# 导航栏设置
+header_pages:
+  - index.md
+  - about.md
+  - contact.md
